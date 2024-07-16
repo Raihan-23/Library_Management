@@ -1,0 +1,12 @@
+[
+  {
+    "title": "clear",
+    "authors": [
+      "james"
+    ],
+    "isbn": "123",
+    "year": "2015",
+    "price": 20.0,
+    "quantity": 5
+  }
+]
